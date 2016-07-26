@@ -20,7 +20,7 @@
 - Software: eclipse 1.53.12  
 
 ##### c. Instructions on how to run the code
-- Compile all .java files  
+- Compile all \*.java files  
 - In one terminal, use "java Server port" to start the server  
 - In another terminal, use "java Client ip port" to start the client  
 - Commands:  
