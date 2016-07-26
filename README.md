@@ -25,7 +25,7 @@
 - In another terminal, use "java Client ip port" to start the client  
 - Commands:  
            whoelse: Displays name of other connected users  
-           wholast <number>: Displays name of those users connected within the last <number> minutes. Let 0 < number < 60  
+           wholast \<number\>: Displays name of those users connected within the last <number> minutes. Let 0 < number < 60  
            broadcast message <message>: Broadcasts <message> to all connected users   
            broadcast user <user> <user>… <user> message <message>: Broadcasts <message> to the list of users   
            message <user> <message>: Private <message> to a <user>   
