@@ -14,12 +14,14 @@
 - Client: Client class. Supports multiple clients.    
 - Server: Server class.      
 
+
 ##### b. Development Environment
 
 - Programming Language: Java   
 - Language Version: 1.6  
 - Operating System:	OS X  	
 - Software: eclipse 1.53.12  
+
 
 ##### c. Instructions on how to run the code
 
