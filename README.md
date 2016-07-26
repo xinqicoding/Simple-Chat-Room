@@ -31,7 +31,7 @@
 - Commands:  
 
            whoelse: displays name of other connected users  
-           wholast <number>: displays name of those users connected within the last \<number\> minutes. Let 0 < number < 60  
+           wholast <number>: displays name of those users connected within the last <number> minutes. Let 0 < number < 60  
            broadcast message <message>: broadcasts <message> to all connected users   
            broadcast user <user> <user>… <user> message <message>: broadcasts <message> to the list of users   
            message <user> <message>: private <message> to a <user>   
